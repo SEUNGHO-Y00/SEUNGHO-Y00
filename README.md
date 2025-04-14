@@ -20,8 +20,8 @@ Resilient and detail-oriented Security Engineer with 6+ years of experience in n
 
 🔹 [Personal Study](https://github.com/SEUNGHO-Y00/PersonalStudy)
 * My personal education project
-  - Python for Networking
   - Web Hacking Class
+  - Python for Networking
   - SANS Summit
   - Try Hack Me
   - World Wide Technology
