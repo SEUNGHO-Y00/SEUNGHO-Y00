@@ -22,6 +22,7 @@ Resilient and detail-oriented Security Engineer with 6+ years of experience in n
 * My personal education project
   - Web Hacking Class
   - Python for Networking
+  - Cloud Certification
   - SANS Summit
-  - Try Hack Me
-  - World Wide Technology
+  - Cyber Security Study Website
+  - Cyber Security Job Resource
