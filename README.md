@@ -21,6 +21,7 @@ Resilient and detail-oriented Security Engineer with 6+ years of experience in n
 🔹 [Personal Study](https://github.com/SEUNGHO-Y00/PersonalStudy)
 * My personal education project
   - Web Hacking Class
+  - Threat Intelligence
   - Python for Networking
   - Cloud Certification
   - SANS Summit
