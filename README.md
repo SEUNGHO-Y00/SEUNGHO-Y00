@@ -22,10 +22,10 @@ What sets me apart is my ability to operate at the intersection of detection eng
 
 🔹 [Personal Study](https://github.com/SEUNGHO-Y00/PersonalStudy)
 * My personal education project
+  - Study Website
   - Web Hacking Class
   - Threat Intelligence
   - Python for Networking
   - Cloud Certification
   - SANS Summit
-  - Cyber Security Study Website
   - Cyber Security Job Resource
